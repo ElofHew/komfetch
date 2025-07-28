@@ -1,0 +1,12 @@
+{
+    "name": "komfetch",
+    "version": "1.2",
+    "vcode": "1200",
+    "author": "ElofHew",
+    "description": "KomFetch for Shizuku PM",
+    "category": "Tools",
+    "tags": ["python", "tool", "komfetch", "shizuku", "fetcher"],
+    "min_python_version": "3.10",
+    "target_python_version": "3.12",
+    "compatible_os": "windows"
+}
